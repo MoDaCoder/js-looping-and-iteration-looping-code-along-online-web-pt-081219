@@ -7,5 +7,3 @@ function writeCards(cards) {
   }
   return cards;
 }
-
-writeCards();r
