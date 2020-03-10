@@ -8,4 +8,4 @@ function writeCards(cards) {
   return cards;
 }
 
-writeCards(cards);
+writeCards(["Ada", "Brendan", "Ali"], "birthday");
