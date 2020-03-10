@@ -10,4 +10,4 @@ function writeCards(cards) {
   
 }
 
-writeCards(cards);
+
